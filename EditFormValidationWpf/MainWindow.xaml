@@ -1,0 +1,49 @@
+﻿<Window x:Class="EditFormValidationWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EditFormValidationWpf"
+        xmlns:vm="clr-namespace:EditFormValidationWpf.ViewModels"
+        xmlns:views="clr-namespace:EditFormValidationWpf.Views"
+        Icon="/Resources/Images/error.png"
+        mc:Ignorable="d"
+        Title="Validation UX"
+        Height="700"
+        Width="1200">
+
+    <Grid>
+        <TabControl>
+            <TabItem Header="Shared Error">
+                <AdornerDecorator>
+                    <views:OneSharedErrorBelowView />
+                </AdornerDecorator>
+            </TabItem>
+            <TabItem Header="MessageBox">
+                <AdornerDecorator>
+                    <views:OneSharedErrorInMessageBoxView />
+                </AdornerDecorator>
+            </TabItem>
+            <TabItem Header="Hidden Tooltip">
+                <AdornerDecorator>
+                    <views:HiddenErrorTooltipView />
+                </AdornerDecorator>
+            </TabItem>
+            <TabItem Header="Below Editor">
+                <AdornerDecorator>
+                    <views:ErrorBelowEditorView />
+                </AdornerDecorator>
+            </TabItem>
+            <TabItem Header="Persistent Popup">
+                <AdornerDecorator>
+                    <views:PersistentErrorPopupView />
+                </AdornerDecorator>
+            </TabItem>
+            <TabItem Header="Required Marks">
+                <AdornerDecorator>
+                    <views:RequiredMarksView />
+                </AdornerDecorator>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

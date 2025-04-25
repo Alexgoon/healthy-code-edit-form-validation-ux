@@ -1,0 +1,85 @@
+﻿<UserControl x:Class="EditFormValidationWpf.Views.RequiredMarksView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:EditFormValidationWpf.ViewModels"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:EditFormValidationWpf.Views"
+             mc:Ignorable="d"
+             d:DesignHeight="450"
+             d:DesignWidth="800">
+    <Grid>
+        <Border HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="0,200,0,0"
+                Padding="20"
+                Width="400"
+                Style="{StaticResource roundPanelBorder}">
+            <Grid HorizontalAlignment="Stretch">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"
+                                      SharedSizeGroup="LabelColumn1" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <TextBlock Text="First Name*:"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left" />
+                <TextBox AutomationProperties.Name="First Name"
+                         VerticalAlignment="Center"
+                         Margin="10,0,0,0"
+                         Grid.Column="1" />
+                <TextBlock Text="Last Name:"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           Margin="0,10,0,0"
+                           Grid.Row="1" />
+                <TextBox AutomationProperties.Name="Last Name"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Center"
+                         Margin="10,10,0,0"
+                         Grid.Column="1"
+                         Grid.Row="1" />
+
+                <TextBlock Text="Phone:"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           Margin="0,40,0,0"
+                           Grid.Row="2" />
+                <TextBox AutomationProperties.Name="Phone"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Center"
+                         Margin="10,40,0,0"
+                         Grid.Column="1"
+                         Grid.Row="2" />
+
+                <TextBlock Text="Email*:"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           Margin="0,10,0,0"
+                           Grid.Row="3" />
+                <TextBox AutomationProperties.Name="Email"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Center"
+                         Margin="10,10,0,0"
+                         Grid.Column="1"
+                         Grid.Row="3" />
+                <Button Content="Save"
+                        Command="{Binding SaveCommand}"
+                        HorizontalAlignment="Right"
+                        Width="130"
+                        Background="{DynamicResource {x:Static SystemColors.AccentColorBrushKey}}"
+                        Margin="0,20,0,0"
+                        Grid.Column="1"
+                        Grid.Row="5" />
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>
