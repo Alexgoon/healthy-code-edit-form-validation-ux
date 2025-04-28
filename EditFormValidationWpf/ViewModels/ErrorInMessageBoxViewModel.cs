@@ -2,7 +2,7 @@
 
 namespace EditFormValidationWpf.ViewModels;
 
-public class OneSharedErrorInMessageBoxViewModel : EditFormViewModel
+public class ErrorInMessageBoxViewModel : EditFormViewModelBase
 {
     protected override void Save() {
         base.Save();

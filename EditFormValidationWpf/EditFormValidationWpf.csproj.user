@@ -2,9 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="Common\ValidationWrapper.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="Views\ErrorBelowEditorView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -18,9 +15,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Common\ValidationCollout.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Views\RequiredMarksView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

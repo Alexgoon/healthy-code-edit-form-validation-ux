@@ -9,7 +9,7 @@
              xmlns:cmn="clr-namespace:EditFormValidationWpf.Common"
              xmlns:i="http://schemas.microsoft.com/xaml/behaviors">
     <UserControl.DataContext>
-        <vm:EditFormViewModel />
+        <vm:EditFormViewModelBase />
     </UserControl.DataContext>
     <UserControl.Resources>
         <ControlTemplate x:Key="ValidationErrorTemplate">

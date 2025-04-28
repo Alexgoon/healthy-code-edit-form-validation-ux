@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 namespace EditFormValidationWpf.ViewModels;
 
 
-public partial class EditFormViewModel : ObservableObject, INotifyDataErrorInfo {
+public partial class EditFormViewModelBase : ObservableObject, INotifyDataErrorInfo {
     [ObservableProperty]
     string firstName;
 

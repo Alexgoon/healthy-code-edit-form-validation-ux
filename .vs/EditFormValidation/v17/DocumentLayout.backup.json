@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\viewmodels\\hiddenerrortooltipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\viewmodels\\hiddenerrortooltipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\viewmodels\\errorinmessageboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\viewmodels\\errorinmessageboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\viewmodels\\editformviewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\viewmodels\\editformviewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\common\\validationcollout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\common\\validationcollout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\common\\validationcollout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\common\\validationcollout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\common\\validatedpropertyupdatebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\common\\validatedpropertyupdatebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\views\\errorbeloweditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\views\\errorbeloweditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\views\\persistenterrorpopupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\views\\persistenterrorpopupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|c:\\test\\sdf\\healthy-code-edit-form-validation-ux\\editformvalidationwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9F168B-73E3-4663-947F-FF4EAB9F4783}|EditFormValidationWpf\\EditFormValidationWpf.csproj|solutionrelative:editformvalidationwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorInMessageBoxViewModel.cs",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\ViewModels\\ErrorInMessageBoxViewModel.cs",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\ViewModels\\ErrorInMessageBoxViewModel.cs",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\ViewModels\\ErrorInMessageBoxViewModel.cs",
+              "RelativeToolTip": "EditFormValidationWpf\\ViewModels\\ErrorInMessageBoxViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:22:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HiddenErrorTooltipViewModel.cs",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\ViewModels\\HiddenErrorTooltipViewModel.cs",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\ViewModels\\HiddenErrorTooltipViewModel.cs",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\ViewModels\\HiddenErrorTooltipViewModel.cs",
+              "RelativeToolTip": "EditFormValidationWpf\\ViewModels\\HiddenErrorTooltipViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:22:15.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditFormViewModelBase.cs",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\ViewModels\\EditFormViewModelBase.cs",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\ViewModels\\EditFormViewModelBase.cs",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\ViewModels\\EditFormViewModelBase.cs",
+              "RelativeToolTip": "EditFormValidationWpf\\ViewModels\\EditFormViewModelBase.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:21:58.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\MainWindow.xaml",
+              "RelativeToolTip": "EditFormValidationWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T14:20:16.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorBelowEditorView.xaml",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Views\\ErrorBelowEditorView.xaml",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\Views\\ErrorBelowEditorView.xaml",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Views\\ErrorBelowEditorView.xaml",
+              "RelativeToolTip": "EditFormValidationWpf\\Views\\ErrorBelowEditorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T14:18:02.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationCollout.xaml.cs",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Common\\ValidationCollout.xaml.cs",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\Common\\ValidationCollout.xaml.cs",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Common\\ValidationCollout.xaml.cs",
+              "RelativeToolTip": "EditFormValidationWpf\\Common\\ValidationCollout.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:17:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationCollout.xaml",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Common\\ValidationCollout.xaml",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\Common\\ValidationCollout.xaml",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Common\\ValidationCollout.xaml",
+              "RelativeToolTip": "EditFormValidationWpf\\Common\\ValidationCollout.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T14:17:40.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidatedPropertyUpdateBehavior.cs",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Common\\ValidatedPropertyUpdateBehavior.cs",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\Common\\ValidatedPropertyUpdateBehavior.cs",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Common\\ValidatedPropertyUpdateBehavior.cs",
+              "RelativeToolTip": "EditFormValidationWpf\\Common\\ValidatedPropertyUpdateBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:17:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersistentErrorPopupView.xaml",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Views\\PersistentErrorPopupView.xaml",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\Views\\PersistentErrorPopupView.xaml",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\Views\\PersistentErrorPopupView.xaml",
+              "RelativeToolTip": "EditFormValidationWpf\\Views\\PersistentErrorPopupView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T14:17:05.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditFormValidationWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\TEST\\sdf\\healthy-code-edit-form-validation-ux\\EditFormValidationWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EditFormValidationWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:16:47.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

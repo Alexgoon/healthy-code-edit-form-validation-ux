@@ -24,7 +24,7 @@
                     <views:OneSharedErrorInMessageBoxView />
                 </AdornerDecorator>
             </TabItem>
-            <TabItem Header="Hidden Tooltip">
+            <TabItem Header="Tooltip">
                 <AdornerDecorator>
                     <views:HiddenErrorTooltipView />
                 </AdornerDecorator>
@@ -37,11 +37,6 @@
             <TabItem Header="Persistent Popup">
                 <AdornerDecorator>
                     <views:PersistentErrorPopupView />
-                </AdornerDecorator>
-            </TabItem>
-            <TabItem Header="Required Marks">
-                <AdornerDecorator>
-                    <views:RequiredMarksView />
                 </AdornerDecorator>
             </TabItem>
         </TabControl>

@@ -26,21 +26,21 @@ namespace EditFormValidationWpf.Views {
         private void OnLastNameIsKeyboardFocusWithinChanged(object sender, DependencyPropertyChangedEventArgs e) {
             if ((bool)e.NewValue)
                 return;
-            EditFormViewModel viewModel = (EditFormViewModel)DataContext;
-            viewModel.ValidateProperty(nameof(EditFormViewModel.LastName), viewModel.LastName);
+            EditFormViewModelBase viewModel = (EditFormViewModelBase)DataContext;
+            viewModel.ValidateProperty(nameof(EditFormViewModelBase.LastName), viewModel.LastName);
         }
         private void OnFirstNameIsKeyboardFocusWithinChanged(object sender, DependencyPropertyChangedEventArgs e) {
             if ((bool)e.NewValue)
                 return;
-            EditFormViewModel viewModel = (EditFormViewModel)DataContext;
-            viewModel.ValidateProperty(nameof(EditFormViewModel.FirstName), viewModel.FirstName);
+            EditFormViewModelBase viewModel = (EditFormViewModelBase)DataContext;
+            viewModel.ValidateProperty(nameof(EditFormViewModelBase.FirstName), viewModel.FirstName);
         }
 
         private void OnPhoneIsKeyboardFocusWithinChanged(object sender, DependencyPropertyChangedEventArgs e) {
             if (!(bool)e.NewValue)
                 return;
-            EditFormViewModel viewModel = (EditFormViewModel)DataContext;
-            viewModel.ValidateProperty(nameof(EditFormViewModel.Phone), viewModel.Phone);
+            EditFormViewModelBase viewModel = (EditFormViewModelBase)DataContext;
+            viewModel.ValidateProperty(nameof(EditFormViewModelBase.Phone), viewModel.Phone);
         }
 
         private void TextBox_PreviewLostKeyboardFocus(object sender, KeyboardFocusChangedEventArgs e) {
